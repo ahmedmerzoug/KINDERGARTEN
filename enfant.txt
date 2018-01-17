@@ -1,0 +1,7 @@
+a a 2 5 2001 azs regime_cantine  zegf adzzazd 005 a_une_maladie aaz zaef
+azd azd 2 3 2000 azd regime_cantine  zegf azdazdzd 006 a_une_maladie azd azd
+a a 2 2 2000 a regime_cantine  zegf azzzzzzz 014 a_une_maladie aa aa
+  2 2 2000 a regime_cantine  zegf azzzzzzz 014 a_une_maladie aa aa
+e e 2 1 1999 ze regime_panier  af zef 008 a_une_maladie zf ezd
+zv zev 1 3 2000 zv regime_cantine  af zead 008 a_une_maladie zed zed
+  1 3 2000 zv regime_cantine  af zead 008 a_une_maladie zed zed
